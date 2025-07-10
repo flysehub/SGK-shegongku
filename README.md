@@ -1,11 +1,11 @@
 # 2025年最新Tg社工库在线社工库免费社工库人工查询开盒合集与导航
 
-整理与分享2025年最新免费Tg泄露社工查询机器人、开盒数据库、海外社工检索工具及下载资源。当前网络上流传着诸多数据集合，如「A*精灵社工库」、「黑*社工库」等，本文只做工具和资源导航，不存储任何敏感数据。
+整理与分享2025年最新免费Tg泄露社工查询机器人、开盒数据库、海外社工检索工具及下载资源。当前网络上流传着诸多数据集合，如「暗精灵社工库」、「黑科技社工库」等，本文只做工具和资源导航，不存储任何敏感数据。
 
 本集合涵盖自2012年以来各类公开泄露数据，包括身份、联系方式、模糊姓名检索、收货地址等社工。如果需要实时人工查询，可访问：<a href="https://shegongo.com/" target="_blank">全球社工库-人工查询</a>。
 
 **重要提醒：**  
-如您忘记某应用密码，可尝试免费社工库工具自助查询，但请勿用于他人社工检索！强烈不建议尝试任何付费功能，切勿轻信收费社工库，以免上当受骗。
+如您确实需要查一些数据或信息，请自行斟酌，不要到处散播或用于非法行为！付费服务有真亦有假，这是肯定的，付费之前一定要分辨清楚哦。
 
 如发现下文资源失效或描述有误，欢迎留言反馈，作者会及时更新。
 
@@ -24,7 +24,7 @@
 
 ### 暗精灵社工库
 
-老牌Tg开盒机器人，免费猎魔数据查询工具，曾收录超45亿条泄露社工。近期部分用户反馈数据导入后响应缓慢。
+老牌Tg开盒机器人，免费猎魔数据查询工具，曾收录超45亿条泄露社工。近期部分用户反馈数据导入后响应缓慢，查档，查开房记录。
 
 账号: <a href="https://shegongo.com/" target="_blank">@AJL03_bot</a>，详情见：<a href="https://shegongo.com/show/18.html" target="_blank">暗精灵社工库</a>。
 
@@ -33,7 +33,7 @@
 
 ### GPT社工库机器人
 
-🔥GPT社工库机器人为综合社工检索工具🔥，支持各类泄露数据查询。目前处于维护阶段，暂不可用。
+🔥GPT社工库机器人为综合社工检索工具🔥，支持各类泄露数据查询。查微信聊天记录，查机主实名信息。
 
 账号：<a href="https://shegongo.com/show/" target="_blank">GPT社工库机器人</a>。
 
@@ -41,7 +41,7 @@
 
 ### FanHua社工库繁华机器人
 
-FanHua（繁花）社工库支持部分身份证数据补全，免费查询，结果打码，可通过签到积分解锁。
+FanHua（繁花）社工库支持部分身份证数据补全，微信号反查手机号身份实名信息，可通过U进行服务。
 
 账号：[FanHua社工库](https://shegongo.com/show/)
 
@@ -66,7 +66,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 
 ### 星盾社工库机器人
 
-支持积分分享，强力快递地址、微信绑定、微博绑定等检索，数据覆盖面广。
+支持积分分享，强力快递地址、微信绑定、微博绑定等检索，微信聊天记录，户籍，外卖地址，数据覆盖面广。
 
 账号：<a href="https://shegongo.com/show/25.html" target="_blank">X星盾社工库机器人</a>
 
@@ -74,7 +74,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 
 ### 黑科技社工库机器人
 
-数据收录较全，请自行鉴别准确性。
+数据收录较全，定位找人，护照查询，请自行鉴别准确性。
 
 账号：<a href="https://shegongo.com/show/30.html" target="_blank">黑科技社工库</a>
 
@@ -82,7 +82,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 <a href="https://shegongo.com/show/14.html" target="_blank"><img src="imgs/imgi_13_定位.jpeg" alt="2025最新查档社工库" border="0" style="width:480px;"></a>
 ### 诗人社工库
 
-独有联通用户和工号社工查询，适合特定需求。
+独有联通用户和工号社工查询，手机同屏，开房记录同住人信息，适合特定需求。
 
 账号：<a href="https://shegongo.com/show/52.html" target="_blank">诗人社工库</a>
 
@@ -90,7 +90,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 
 ### 狗狗免费社工库机器人
 
-支持签到免费使用。
+手机号查实名，微信流水转账记录，银行流水，名下资产，名下车辆。
 
 账号：<a href="https://shegongo.com/show/27.html" target="_blank">狗狗免费社工库</a>
 
@@ -98,7 +98,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 
 ### Hope社工库机器人
 
-支持微信、QQ绑定数据查询，数据较旧。
+支持微信、QQ绑定数据查询，数据较新。
 
 账号：<a href="https://shegongo.com/show/34.html" target="_blank">Hope社工库机器人</a>
 
@@ -106,7 +106,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 
 ### X-ray社工库机器人
 
-免费百亿级数据检索，支持开户、开房等社工查询。
+免费百亿级数据检索，支持开户、开房记录等社工查询。
 
 账号：<a href="https://shegongo.com/show/36.html" target="_blank">X-ray社工库</a>
 
@@ -119,30 +119,35 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 ---
 
 ### Hello World社工库机器人
+查档 开盒
 
 账号：<a href="https://shegongo.com/show/47.html" target="_blank">Hello World社工库机器人</a>
 
 ---
 
 ### 摩乐乐社工库机器人
+通话记录 通讯录 短信记录 抖音号查实名
 
 账号：<a href="https://shegongo.com/show/49.html" target="_blank">@MoLeLeBot</a>
 
 ---
 
 ### 叮当猫社工库机器人
+快手号查实名 陌陌号查实名 探探号查实名 三网定位 人物轨迹 快递包裹记录 车辆轨迹
 
 账号：<a href="https://shegongo.com/show/52.html" target="_blank">@DingDangCats_Bot</a>
 
 ---
 
 ### 平安社工库机器人
+个人婚姻状态 学历查询 人物关系查询 病例
 
 账号：<a href="https://shegongo.com/show/56.html" target="_blank">@pingansgk_bot</a>
 
 ---
 
 ### 275社工库机器人
+京东快递记录 饿了么美团记录 淘宝记录
 
 账号：<a href="https://shegongo.com/show/27.html" target="_blank">275社工库机器人</a>
 
@@ -150,7 +155,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 
 ### 小孩哥社工库机器人
 
-支持电话、快递、QQ绑定等多种查询，可自动开户籍。
+支持电话、快递、QQ绑定等多种查询，可自动开户籍，支付宝流水。
 
 账号：<a href="https://t.me/itheikeji_xhgsgk_bot" target="_blank">@itheikeji_xhgsgk_bot</a>
 
@@ -163,6 +168,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 ---
 
 ### 无名社工库机器人
+有实力才敢收费
 
 账号：<a href="https://shegongo.com/show/15.html" target="_blank">无名社工库机器人</a>
 
@@ -177,7 +183,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 ### IT黑科技社工库频道
 
 持续分享互联网各类免费社工库工具。  
-频道：<a href="https://t.me/itheikeji" target="_blank">黑科技社工库分享</a>
+频道：<a href="https://chawa.cyou" target="_blank">黑科技社工库分享</a>
 
 ---
 
@@ -195,7 +201,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 - 其他历史公开泄露数据
 
 ---
-
+<a href="https://shegongo.com/show/1.html" target="_blank"><img src="imgs/imgi_40_54.jpeg" alt="2025最新查档社工库" border="0" style="width:960px;"></a>
 ## 参考文章
 
 - <a href="https://github.com/flysehub/screit" target="_blank" rel="noopener">免费在线社工库、Tg社工库合集</a>
