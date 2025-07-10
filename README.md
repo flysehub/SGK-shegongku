@@ -11,6 +11,8 @@
 
 ---
 
+<a href="https://shegongo.com/show/57.html" target="_blank"><img src="imgs/imgi_12_云投屏.jpeg" alt="2025最新查档社工库" border="0" style="width:360px;"></a>
+
 ## 社工库导航站
 
 聚合各类海外Tg泄露数据工具，定期更新热门账号与在线数据查询。本网站不存储数据，仅作工具导航。  
@@ -27,6 +29,7 @@
 账号: <a href="https://shegongo.com/" target="_blank">@AJL03_bot</a>，详情见：<a href="https://shegongo.com/show/18.html" target="_blank">暗精灵社工库</a>。
 
 ---
+<a href="https://shegongo.com/show/57.html" target="_blank"><img src="imgs/imgi_3_57.jpeg" alt="2025最新查档社工库" border="0" style="width:960px;"></a>
 
 ### GPT社工库机器人
 
@@ -51,6 +54,7 @@ FanHua（繁花）社工库支持部分身份证数据补全，免费查询，�
 详情：[免费查询个人资料](https://shegongo.com/show/)
 
 ---
+<a href="https://shegongo.com/show/7.html" target="_blank"><img src="imgs/imgi_9_外卖.jpeg" alt="2025最新查档社工库" border="0" style="width:480px;"></a>
 
 ### AI社工库
 
@@ -75,7 +79,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 账号：<a href="https://shegongo.com/show/30.html" target="_blank">黑科技社工库</a>
 
 ---
-
+<a href="https://shegongo.com/show/14.html" target="_blank"><img src="imgs/imgi_13_定位.jpeg" alt="2025最新查档社工库" border="0" style="width:480px;"></a>
 ### 诗人社工库
 
 独有联通用户和工号社工查询，适合特定需求。
@@ -107,7 +111,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 账号：<a href="https://shegongo.com/show/36.html" target="_blank">X-ray社工库</a>
 
 ---
-
+<a href="https://shegongo.com/show/1.html" target="_blank"><img src="imgs/imgi_4_1.jpeg" alt="2025最新查档社工库" border="0" style="width:480px;"></a>
 ### 哈希社工库
 
 账号：<a href="https://shegongo.com/show/38.html" target="_blank">哈希社工库</a>
