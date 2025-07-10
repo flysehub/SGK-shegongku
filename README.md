@@ -111,7 +111,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 账号：<a href="https://shegongo.com/show/36.html" target="_blank">X-ray社工库</a>
 
 ---
-<a href="https://shegongo.com/show/1.html" target="_blank"><img src="imgs/imgi_4_1.jpeg" alt="2025最新查档社工库" border="0" style="width:480px;"></a>
+<a href="https://shegongo.com/show/1.html" target="_blank"><img src="imgs/imgi_4_1.jpeg" alt="2025最新查档社工库" border="0" style="width:960px;"></a>
 ### 哈希社工库
 
 账号：<a href="https://shegongo.com/show/38.html" target="_blank">哈希社工库</a>
@@ -191,7 +191,7 @@ AI社工库支持签到、分享积分获取，当前部分功能暂不可用。
 - QQ、微信、微博等绑定数据
 - 各类邮箱、手机号、银行卡、快递、企业登记
 - 社保、保险、驾校、酒店、IP、WHOIS等数据
-- 部分境外平台（如F*book、Tg等）用户数据
+- 部分境外平台（如Facebook、Tg等）用户数据
 - 其他历史公开泄露数据
 
 ---
